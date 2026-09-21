@@ -1,2 +1,23 @@
 ﻿__pycache__/
 *.pyc
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
